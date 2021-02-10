@@ -113,3 +113,4 @@ package.json
 ```
 
 [create-react-app Warning Fix Blog Post](https://community.netlify.com/t/how-to-fix-build-failures-with-create-react-app-in-production/17752)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/db123e95-d22c-41b7-9375-b8e0f7374ac0/deploy-status)](https://app.netlify.com/sites/get-github-profiles/deploys)
